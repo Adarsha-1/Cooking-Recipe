@@ -20,7 +20,7 @@ PlateMate is a full-stack web application designed to empower food enthusiasts a
 - **Deployment**: Netlify (Frontend), Heroku (Backend)
 
 ## Getting Started
-Visit [PlateMate](https://platematedsa.netlify.app/) to start your culinary journey with us. For developers, please refer to our GitHub repositories for [frontend](https://github.iu.edu/adpeddag/Frontend) and [backend](https://github.iu.edu/adpeddag/Backend) to contribute or set up your local development environment.
+Visit [PlateMate](https://platematedsa.netlify.app/) to start your culinary journey with us. For developers, please refer to our GitHub repositories for [frontend](https://github.com/Adarsha-1/PlateMate-Cooking-Recipe/Frontend) and [backend](https://github.com/Adarsha-1/PlateMate-Cooking-Recipe/Backend) to contribute or set up your local development environment.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
